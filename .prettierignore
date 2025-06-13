@@ -1,0 +1,15 @@
+artifacts
+node_modules
+coverage
+dist
+.vscode
+package-lock.json
+yarn.lock
+cache
+.env
+.*
+*.log
+*.tsbuildinfo
+*.d.ts
+README.md
+coverage.json
